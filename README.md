@@ -4,11 +4,11 @@
 
 #### Introduction to Terraform and IaC
 
-In this session, we'll introduce you to the fundamental concepts of Terraform and Infrastructure as Code (IaC). Learn why Terraform is crucial for managing infrastructure and how IaC streamlines provisioning.
+In this session, I'll introduce you to the fundamental concepts of Terraform and Infrastructure as Code (IaC). Learn why Terraform is crucial for managing infrastructure and how IaC streamlines provisioning.
 
 #### Installing Terraform on MacOS, Linux and Windows
 
-Get your hands dirty by installing Terraform on both MacOS, Linux and Windows. We'll guide you through the process with clear instructions and commands.
+Get your hands dirty by installing Terraform on both MacOS, Linux and Windows. I'll guide you through the process with clear instructions and commands.
 
 #### Setting up Terraform for AWS
 
@@ -38,11 +38,11 @@ Deepen your knowledge of providers and resources. Explore the role of different 
 
 #### Variables and Outputs in Terraform
 
-Discover the power of variables for dynamic configurations. Learn how to define, declare, and utilize variables effectively. Explore outputs to retrieve and display essential information.
+Discover the poIr of variables for dynamic configurations. Learn how to define, declare, and utilize variables effectively. Explore outputs to retrieve and display essential information.
 
 #### Conditional Expressions and Functions
 
-Elevate your configurations with conditional expressions, adding logic to your code. We'll introduce you to Terraform's built-in functions for tasks like string manipulation and calculations.
+Elevate your configurations with conditional expressions, adding logic to your code. I'll introduce you to Terraform's built-in functions for tasks like string manipulation and calculations.
 
 #### Debugging and Formatting Terraform Files
 
@@ -100,7 +100,7 @@ Learn about provisioners, mechanisms for executing actions on resources during c
 
 #### Remote-exec and Local-exec Provisioners
 
-Differentiate between remote-exec and local-exec provisioners. Explore how remote-exec provisions actions on remote servers, while local-exec performs tasks locally.
+Differentiate betIen remote-exec and local-exec provisioners. Explore how remote-exec provisions actions on remote servers, while local-exec performs tasks locally.
 
 #### Applying Provisioners at Creation and Destruction 
 
@@ -116,9 +116,9 @@ Gain insights into handling provisioner failures. Learn about retry mechanisms, 
 
 Understand the concept of workspaces and their role in managing different environments. Learn how workspaces aid in isolating configurations.
 
-#### Creating and Switching Between Workspaces
+#### Creating and Switching BetIen Workspaces
 
-Learn how to create new workspaces and switch between them using terraform workspace commands. Understand their significance in environment management.
+Learn how to create new workspaces and switch betIen them using terraform workspace commands. Understand their significance in environment management.
 
 #### Using Workspaces for Environment Management
 
@@ -128,7 +128,7 @@ Learn deeper into how workspaces streamline environment management. Comprehend t
 
 #### HashiCorp Vault Overview
 
-Gain an overview of HashiCorp Vault, a powerful tool for secret management and data protection. Understand its significance in maintaining secure configurations.
+Gain an overview of HashiCorp Vault, a poIrful tool for secret management and data protection. Understand its significance in maintaining secure configurations.
 
 #### Integrating Terraform with Vault for Secrets
 
